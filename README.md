@@ -13,7 +13,7 @@ ALGUMAS CURIOSIDADES!
 - Amo coisas novas (lugares, restaurantes, experiências)
 - Adoro fazer crochê
 ```
-
+#### _EXPERIÊNCIA NA ÁREA_
 Em 2024, me formei no **técnico em Mecatrônica no SENAI Roberto Mange**, integrado com o SESI Amoreiras, onde tive diversos aprendizados relacionados à automação, robótica e programação e conclui os dois anos de curso com um projeto (TCC) de uma estufa automatizada, reunindo todos esses conhecimentos, contando com eletroeletrônica e mecânica.
 Além disso, atualmente (2025) sou aprendiz de Soluções Digitais na **BOSCH Campinas** e, juntamente, faço outro técnico no **SENAI Roberto Mange**, mas agora de **Desenvolvimento de Sistemas**.
 
