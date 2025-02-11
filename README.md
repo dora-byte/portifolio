@@ -1,1 +1,1 @@
-# {c:violet} Conheça a Isadora Abreu.{/c}
+# Conheça {c:violet} a Isadora Abreu.{/c}
